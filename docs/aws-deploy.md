@@ -1,6 +1,6 @@
 # AWS EC2 に公開する手順
 
-流れは hello-server と同じ（講義 [TypeScript をサーバーで動かす](https://yoshito.me/learn/deploy/)）。
+流れは hello-server と同じ（解説スライド [TypeScript をサーバーで動かす](https://yoshito.me/learn/deploy/)）。
 ここでは **hello-server と違うところ** を中心に書く。
 
 ```
